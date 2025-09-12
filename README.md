@@ -15,7 +15,7 @@
     👯  I am looking for a full stack JavaScript developer job.<br><br>
     ✌️  Enjoy doing programming and sharing knowledge<br><br>
     ❤️  I’m currently learning Next.js and TypeScript<br><br>
-    📧  Reach me anytime: samirabidi1123@gmail.com<br>
+    📧  Reach me anytime: acef.laatiri.dev@gmail.com<br>
   </p>
 </div>
 
